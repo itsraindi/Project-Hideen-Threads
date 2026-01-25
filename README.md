@@ -58,6 +58,13 @@ Recommended Unity versions: **2019.4.18f1** or **2022.3.12f1**
 
 ---
 
-## Credits / Assets
-Add any art/audio/font sources here with links + licenses.
+## Credits 
+Alan: Producer, Programming, Documentation / QA Testing
+Divine: UI/UX Lead, Programming
+Jenny: Visual Design Lead, Digital Media
+Mashhood: Story / Writing Lead
+Nate: Level Design Lead, Programming, Sound Design Assistance
+Thomas: Sound Design Lead, Programming Assistance
+
+
 
